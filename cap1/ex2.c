@@ -6,7 +6,7 @@ int main()
 {
     float n1, n2, n3, n4, media;
 
-    printf("\nDigite a nota 1: ");
+    printf("Digite a nota 1: \n");
     scanf("%f", &n1);
 
     printf("Digite a nota 2: ");
